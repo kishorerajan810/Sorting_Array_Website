@@ -1,0 +1,43 @@
+@media screen and (min-width: 0px) {
+    section {
+        width: 100%;
+        position: static;
+        background-color: #008AD8;
+    }
+    section h1 {
+        height: 30px;
+        margin-left: 10%;
+        margin-right: 10%;
+        font-family: arial;
+        font-size: 300px;
+        font-weight: 750;
+        color: #111;
+    }
+    canvas {
+        margin-left: 10%;
+        width: 80%;
+        height: 40%;
+    }
+}
+
+@media screen and (min-width: 460px) {
+    section {
+        width: 100%;
+        position: static;
+        background-color: #008AD8;
+        margin-top: 0;
+        margin-left: 0;
+    }
+    section h1 {
+        height: 30px;
+        margin-left: 10%;
+        font-family: arial;
+        font-size: 30px;
+        font-weight: 500;
+        color: #111;
+    }
+    canvas {
+        margin-bottom: 50px;
+        width: 80%;
+    }
+}
