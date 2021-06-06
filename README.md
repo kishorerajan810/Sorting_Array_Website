@@ -25,6 +25,11 @@ Step 2:
 Step 3:
 
 ![3](https://user-images.githubusercontent.com/56103513/120933546-42df3900-c718-11eb-9a8b-b6dc5ef71723.PNG)
+
+Output :
+
+![4](https://user-images.githubusercontent.com/56103513/120933703-ea5c6b80-c718-11eb-8c4d-13cb1f9843c8.PNG)
+
    
 
 
