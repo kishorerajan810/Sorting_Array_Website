@@ -12,7 +12,9 @@ Website Link : https://kishorerajan810.github.io/Sorting_Array_Website/
 
                                                Processing images from the Algorithm :
 
-                                           Starting from index 0 at random numbers to n-1
+   Starting from index 0 at random numbers to n-1
+   
+   
 
 
 
