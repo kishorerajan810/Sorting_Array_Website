@@ -2,9 +2,9 @@
 
 Website Link : https://kishorerajan810.github.io/Sorting_Array_Website/
 
-Note :
+          Note :
 
-            Yellow Color : Random intial Array Values
+   Yellow Color : Random intial Array Values
    
    Purple & Red color : Swapping the two Array Values of the list
    
