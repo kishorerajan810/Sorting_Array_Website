@@ -2,7 +2,7 @@
 
 Website Link : https://kishorerajan810.github.io/Sorting_Array_Website/
 
-          Note :
+                                             Note 
 
    Yellow Color : Random intial Array Values
    
