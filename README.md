@@ -9,7 +9,7 @@ Note :
 
 Processing images from the Algorithm :
 
-                                        Starting from index 0 at random numbers to n-1
+                                           Starting from index 0 at random numbers to n-1
 
 ![1](https://user-images.githubusercontent.com/56103513/120932959-92703580-c715-11eb-83f8-3a693cf9475e.PNG)
 
